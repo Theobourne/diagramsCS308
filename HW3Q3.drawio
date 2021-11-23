@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T03:38:05.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" etag="Xg2VTxsHQUUsOpevMH_0" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T03:45:29.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" etag="1_m24Tr-6iIBpmeN-egy" version="15.8.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="688" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,36 +32,36 @@
             <mxPoint x="180" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-1" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-1" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="100" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-3" value="Use NFC To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-1" target="LTaqYE9DrOAMS9iLjCXF-2">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-3" value="Use NFC To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-1" target="LTaqYE9DrOAMS9iLjCXF-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-58" value="PIN Number Sent" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.283;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-58" value="PIN Number Sent" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.283;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" parent="LTaqYE9DrOAMS9iLjCXF-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55.00000000000017" y="180" as="sourcePoint" />
             <mxPoint x="426.66999999999996" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-5" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-5" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="80" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-5">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-8" value="open bank application from cellphone" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.283;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-2" target="LTaqYE9DrOAMS9iLjCXF-5">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-8" value="open bank application from cellphone" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.283;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-2" target="LTaqYE9DrOAMS9iLjCXF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="509" y="150.0000000000001" as="sourcePoint" />
             <mxPoint x="679" y="150.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-9" value="instruct customer to tap to confirm ownership" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-6" target="LTaqYE9DrOAMS9iLjCXF-2">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-9" value="instruct customer to tap to confirm ownership" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-6" target="LTaqYE9DrOAMS9iLjCXF-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="190" as="sourcePoint" />
             <mxPoint x="500" y="200" as="targetPoint" />
@@ -70,69 +70,69 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-31" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-31" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="430" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-32" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-31">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-32" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-31" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-33" value="Use ATM Card To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-31" target="LTaqYE9DrOAMS9iLjCXF-32">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-33" value="Use ATM Card To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-31" target="LTaqYE9DrOAMS9iLjCXF-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-35" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-35" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="430" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-36" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-35">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-36" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-35" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-62" value="ATM Releases the card to the customer" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-35">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-62" value="ATM Releases the card to the customer" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="45" y="140" as="sourcePoint" />
             <mxPoint x="-260" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-38" value="Enter ATM Card Then PIN" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-32" target="LTaqYE9DrOAMS9iLjCXF-36">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-38" value="Enter ATM Card Then PIN" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-32" target="LTaqYE9DrOAMS9iLjCXF-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-41" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-41" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="430" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-42" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-41">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-42" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-41" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-43" value="Use QR Code To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-41" target="LTaqYE9DrOAMS9iLjCXF-42">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-43" value="Use QR Code To Validate" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-41" target="LTaqYE9DrOAMS9iLjCXF-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-65" value="Customer enters PIN code" style="verticalAlign=bottom;endArrow=block;entryX=0.152;entryY=0.41;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LTaqYE9DrOAMS9iLjCXF-41">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-65" value="Customer enters PIN code" style="verticalAlign=bottom;endArrow=block;entryX=0.152;entryY=0.41;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" parent="LTaqYE9DrOAMS9iLjCXF-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="200.01999999999998" as="sourcePoint" />
             <mxPoint x="526.52" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-45" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-45" value="ATM" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="430" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-46" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="LTaqYE9DrOAMS9iLjCXF-45">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-46" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="LTaqYE9DrOAMS9iLjCXF-45" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-48" value="Customer Selects Cardless Option From ATM" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-42" target="LTaqYE9DrOAMS9iLjCXF-46">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-48" value="Customer Selects Cardless Option From ATM" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-42" target="LTaqYE9DrOAMS9iLjCXF-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="605" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-49" value="The ATM displays a QR code To be read from the customers mobile app" style="verticalAlign=bottom;endArrow=block;entryX=0.994;entryY=0.265;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-46" target="LTaqYE9DrOAMS9iLjCXF-42">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-49" value="The ATM displays a QR code To be read from the customers mobile app" style="verticalAlign=bottom;endArrow=block;entryX=0.994;entryY=0.265;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-46" target="LTaqYE9DrOAMS9iLjCXF-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="560" as="sourcePoint" />
             <mxPoint x="650" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-53" value="After tapping sends information about the customer card" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-2" target="LTaqYE9DrOAMS9iLjCXF-5">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-53" value="After tapping sends information about the customer card" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-2" target="LTaqYE9DrOAMS9iLjCXF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="240" as="sourcePoint" />
             <mxPoint x="771.67" y="230" as="targetPoint" />
@@ -141,43 +141,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-54" value="Ask to enter PIN number" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-5" target="LTaqYE9DrOAMS9iLjCXF-2">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-54" value="Ask to enter PIN number" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-5" target="LTaqYE9DrOAMS9iLjCXF-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="765" y="260" as="sourcePoint" />
             <mxPoint x="500" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-59" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-59" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="867.25" y="290" as="sourcePoint" />
             <mxPoint x="492.75" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-60" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="LTaqYE9DrOAMS9iLjCXF-32">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-60" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" target="LTaqYE9DrOAMS9iLjCXF-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="530" as="sourcePoint" />
             <mxPoint x="170" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-61" value="User Indicates No More Transactions" style="verticalAlign=bottom;endArrow=block;entryX=-0.149;entryY=0.533;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.134;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-32" target="LTaqYE9DrOAMS9iLjCXF-36">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-61" value="User Indicates No More Transactions" style="verticalAlign=bottom;endArrow=block;entryX=-0.149;entryY=0.533;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.134;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-32" target="LTaqYE9DrOAMS9iLjCXF-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="549" as="sourcePoint" />
             <mxPoint x="465" y="549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-63" value="When The QR Code is scanned the mobile app will send the customers information to the ATM" style="verticalAlign=bottom;endArrow=block;entryX=0.152;entryY=0.41;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-42" target="LTaqYE9DrOAMS9iLjCXF-46">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-63" value="When The QR Code is scanned the mobile app will send the customers information to the ATM" style="verticalAlign=bottom;endArrow=block;entryX=0.152;entryY=0.41;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.5;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-42" target="LTaqYE9DrOAMS9iLjCXF-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="579.7600000000001" as="sourcePoint" />
             <mxPoint x="990" y="579.7600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-64" value="The Customer will be asked to enter PIN code" style="verticalAlign=bottom;endArrow=block;entryX=0.994;entryY=0.265;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-64" value="The Customer will be asked to enter PIN code" style="verticalAlign=bottom;endArrow=block;entryX=0.994;entryY=0.265;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120.06" y="600" as="sourcePoint" />
             <mxPoint x="650" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTaqYE9DrOAMS9iLjCXF-67" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" source="LTaqYE9DrOAMS9iLjCXF-45" target="LTaqYE9DrOAMS9iLjCXF-41">
+        <mxCell id="LTaqYE9DrOAMS9iLjCXF-67" value="Confirming Login and Allowing one or more transaction" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" source="LTaqYE9DrOAMS9iLjCXF-45" target="LTaqYE9DrOAMS9iLjCXF-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1094.5" y="670" as="sourcePoint" />
             <mxPoint x="720" y="670" as="targetPoint" />
