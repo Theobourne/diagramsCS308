@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T13:50:08.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" version="15.8.3" etag="uq7rH-Kl7t3wLLFLQPlP" type="github"><diagram id="Hc9yeL8egTwj--XoqEOM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-23T02:13:39.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" etag="4J24jhAAD2CMjR0JsBNc" version="15.8.3" type="github">
+  <diagram id="Hc9yeL8egTwj--XoqEOM" name="Page-1">
+    <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tZyhxEvpkJcSIGfDJi1E-11" value="Customer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tZyhxEvpkJcSIGfDJi1E-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="620" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="tZyhxEvpkJcSIGfDJi1E-9" value="Cash &lt;br&gt;Withdrawal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tZyhxEvpkJcSIGfDJi1E-10" value="Cash&lt;br&gt;Deposit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
