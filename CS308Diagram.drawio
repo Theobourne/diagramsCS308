@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T02:33:36.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" etag="hucieSU2gM8l_kFzmIvg" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T02:34:21.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.52" etag="HrQH_RSJLBZ-qj3qdIRR" version="15.8.3" type="github">
   <diagram id="Hc9yeL8egTwj--XoqEOM" name="Page-1">
     <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,12 +32,6 @@
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="400" y="280" as="sourcePoint" />
             <mxPoint x="460" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tZyhxEvpkJcSIGfDJi1E-25" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="60" height="60" relative="1" as="geometry">
-            <mxPoint x="840" y="210" as="sourcePoint" />
-            <mxPoint x="900" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZyhxEvpkJcSIGfDJi1E-26" value="Transfer&lt;br&gt;&amp;nbsp;Money" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
